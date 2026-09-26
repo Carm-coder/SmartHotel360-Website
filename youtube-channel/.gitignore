@@ -1,0 +1,31 @@
+# Large media and editor files: keep locally and back up to cloud storage, not git
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.mts
+*.wav
+*.mp3
+*.aac
+*.flac
+*.m4a
+*.psd
+*.psb
+*.ai
+*.aep
+*.prproj
+*.drp
+*.fcpbundle/
+*.veg
+*.kdenlive
+*.cmproj/
+*.tscproj
+*.zip
+Adobe Premiere Pro Auto-Save/
+Adobe Premiere Pro Audio Previews/
+Adobe Premiere Pro Video Previews/
+CacheClip/
+.DS_Store
+Thumbs.db
